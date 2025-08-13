@@ -28,8 +28,9 @@
     gap: 10px;
     display: flex;
     flex-direction: row;
-    padding-right: 60px;
+    padding-right: 90px;
     align-items: center;
     text-align: center;
 }
+
 }
